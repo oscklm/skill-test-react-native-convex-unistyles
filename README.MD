@@ -20,7 +20,7 @@ Develop a simple React-Native application using React Native with Expo that allo
   2. yarn expo prebuild --clean
   3. yarn ios
 - Setup Convex:
-- Install and configure Convex in the repo [react native quickstart](~https://docs.convex.dev/quickstart/react-native~)
+- Install and configure Convex in the repo [react native quickstart](https://docs.convex.dev/quickstart/react-native)
 
 #### 2. Database
 
