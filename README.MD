@@ -45,4 +45,3 @@ Style the application using Unistyles, using basic black and white shapes. To sh
 ### Notes
 
 - The UPDATE part of the CRUD here is removed for simplicity, so it’s not left out by mistake.
-- The above is setup as markdown tasks, feel free to use them as you progress through the project.
